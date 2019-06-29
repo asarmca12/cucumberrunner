@@ -12,6 +12,6 @@ Feature: Addtarifplan
     
    Examples:
       | month rent  | free loc | free intt |sms pack|loc chge|inte permin|sms per|
-      | 100           | 5        | 1        | 1      | 1      | 5        |  1    |       	        
-      
-     
+      | 100           | 5        | 1        | 1      | 1      | 5        |  1    |       	              
+      | 101          | 5        | 1        | 1      | 1      | 5        |  1    |     
+      | 102           | 5        | 1        | 1      | 1      | 5        |  1    |     
